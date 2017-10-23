@@ -122,7 +122,7 @@
 
 					'pipl_vac': 'Send your CV and became the part of BitCourse',
 
-					'road': 'ROADMEP',
+					'road': 'ROADMAP',
 
 					'teacher_zag_1': 'Just imagine',
 					'teacher_zag_2': 'What your teachers and mentors are the best world experts!',
@@ -382,7 +382,7 @@
 					'pipl_ob_7_5': '',
 					'pipl_ob_7_6': '',
 
-					'road': 'ROADMEP',
+					'road': 'ROADMAP',
 
 					'teacher_zag_1': 'Just imagine',
 					'teacher_zag_2': 'What your teachers and mentors are the best world experts!',
